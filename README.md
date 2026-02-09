@@ -25,7 +25,7 @@
 
 👨‍💻 **Full-Stack MERN Developer** passionate about building scalable web applications
 
-📍 Based in **Ludhiana, Punjab, India** 🇮🇳
+📍 Based in **Mohali, Punjab, India** 🇮🇳
 
 💼 **1+ Years of Experience** (including 6 months internship)
 
