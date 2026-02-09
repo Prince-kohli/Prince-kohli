@@ -24,7 +24,7 @@
 ```javascript
 const prince = {
     role: "Full-Stack MERN Developer",
-    location: "Ludhiana, Punjab, India 🇮🇳",
+    location: "Mohali, Punjab, India 🇮🇳",
     experience: "1+ Years (6 Months Internship)",
     currentlyLearning: ["AWS", "Docker", "Microservices"],
     lookingFor: "Full-Time Opportunities",
