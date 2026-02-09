@@ -21,25 +21,33 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-```javascript
-const prince = {
-    role: "Full-Stack MERN Developer",
-    location: "Mohali, Punjab, India 🇮🇳",
-    experience: "1+ Years (6 Months Internship)",
-    currentlyLearning: ["AWS", "Docker", "Microservices"],
-    lookingFor: "Full-Time Opportunities",
-    
-    expertise: [
-        "🔐 JWT Authentication & Role-Based Access Control",
-        "🏗️ Clean Backend Architecture & RESTful APIs",
-        "📊 Admin Dashboards & SaaS Platforms",
-        "⚡ Performance Optimization & Scalable Solutions",
-        "🎨 Responsive UI/UX with Modern Frameworks"
-    ],
-    
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+👨‍💻 **Full-Stack MERN Developer** passionate about building scalable web applications
+
+📍 Based in **Ludhiana, Punjab, India** 🇮🇳
+
+💼 **1+ Years of Experience** (including 6 months internship)
+
+🎯 Currently mastering **AWS, Docker & Microservices**
+
+🚀 **Open to Full-Time Opportunities**
+
+### 💡 What I Bring to the Table:
+
+🔐 **JWT Authentication & Role-Based Access Control** - Secure user management systems
+
+🏗️ **Clean Backend Architecture** - Scalable & maintainable RESTful APIs
+
+📊 **Admin Dashboards & SaaS Platforms** - Real production-ready systems
+
+⚡ **Performance Optimization** - Fast, efficient & scalable solutions
+
+🎨 **Modern UI/UX** - Responsive designs with latest frameworks
+
+---
+
+💬 *"I debug with console.log and I'm not ashamed!"* 😄
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
