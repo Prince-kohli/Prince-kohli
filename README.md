@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="[./profile.jpg](https://media-del3-1.cdn.whatsapp.net/v/t61.24694-24/355587672_215089011448422_8947557989414560347_n.jpg?ccb=11-4&oh=01_Q5Aa3wEgImOK0t-zgE8EWbpDtkJ65UlyGvKyAry_7c194j065Q&oe=6996A101&_nc_sid=5e03e0&_nc_cat=104)" width="160" style="border-radius:50%;" />
+  <img src="blob:https://web.whatsapp.com/632b71de-fd80-4491-9830-ef2fbcce8ede" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Prince Kohli</h1>
