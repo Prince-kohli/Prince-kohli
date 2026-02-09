@@ -1,7 +1,5 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://web.whatsapp.com/632b71de-fd80-4491-9830-ef2fbcce8ede" />
-</p>
+
 
 <h1 align="center">Hi 👋 I'm Prince Kohli</h1>
 
