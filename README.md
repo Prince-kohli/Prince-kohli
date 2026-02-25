@@ -1,246 +1,218 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prince%20Kohli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Solutions&descAlignY=51&descAlign=50"/>
+<!-- FUTURISTIC HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:00d4ff,100:7b2fff&height=200&section=header&text=PRINCE%20KOHLI&fontSize=55&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=⟨%20Full-Stack%20MERN%20Engineer%20%7C%20Architect%20of%20Digital%20Systems%20⟩&descAlignY=58&descAlign=50&descSize=16&descFontColor=a0f0ff"/>
 
-<!-- Typing Animation -->
+<!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=React+%7C+Node.js+%7C+MongoDB+Expert;Building+Scalable+Web+Applications;Crafting+Clean+%26+Secure+Backend+APIs;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=55&lines=%5BSYS%5D+Initializing+Prince.exe...+✓;%5BSTACK%5D+React+%7C+Node.js+%7C+MongoDB+%7C+Redis;%5BSTATUS%5D+Building+scalable+production+systems;%5BMODE%5D+Open+to+Full-Time+Opportunities+🚀;%5BSKILL%5D+JWT+Auth+%7C+REST+APIs+%7C+Microservices;%5BUPGRADE%5D+Mastering+AWS+%26+Docker+↑" alt="Typing SVG" />
 </p>
 
-<!-- Badges -->
+<!-- STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=101010" alt="experience"/>
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" alt="focus"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="status"/>
+  <img src="https://img.shields.io/badge/⚡_EXPERIENCE-1%2B_YEARS-00ffcc?style=for-the-badge&labelColor=0a0a0a&color=00ffcc" />
+  <img src="https://img.shields.io/badge/🔮_STACK-MERN-7b2fff?style=for-the-badge&labelColor=0a0a0a&color=7b2fff" />
+  <img src="https://img.shields.io/badge/🟢_STATUS-OPEN_TO_WORK-00ff88?style=for-the-badge&labelColor=0a0a0a&color=00ff88" />
+  <img src="https://img.shields.io/badge/📍_LOCATION-MOHALI%2C_INDIA-ff6b6b?style=for-the-badge&labelColor=0a0a0a&color=ff6b6b" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## `> SYSTEM_PROFILE.exe`
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-👨‍💻 **Full-Stack MERN Developer** passionate about building scalable web applications
-
-📍 Based in **Mohali, Punjab, India** 🇮🇳
-
-💼 **1+ Years of Experience** (including 6 months internship)
-
-🎯 Currently mastering **AWS, Docker & Microservices**
-
-🚀 **Open to Full-Time Opportunities**
-
-### 💡 What I Bring to the Table:
-
-🔐 **JWT Authentication & Role-Based Access Control** - Secure user management systems
-
-🏗️ **Clean Backend Architecture** - Scalable & maintainable RESTful APIs
-
-📊 **Admin Dashboards & SaaS Platforms** - Real production-ready systems
-
-⚡ **Performance Optimization** - Fast, efficient & scalable solutions
-
-🎨 **Modern UI/UX** - Responsive designs with latest frameworks
-
----
-
-💬 *"I debug with console.log and I'm not ashamed!"* 😄
+```yaml
+╔══════════════════════════════════════════════════════════════╗
+║                    DEVELOPER IDENTITY CARD                   ║
+╠══════════════════════════════════════════════════════════════╣
+║  NAME       : Prince Kohli                                   ║
+║  ROLE       : Full-Stack MERN Developer                      ║
+║  BASE       : Mohali, Punjab, India 🇮🇳                      ║
+║  EXPERIENCE : 1+ Years (incl. 6 months internship)          ║
+║  CURRENT    : Leveling up → AWS + Docker + Microservices    ║
+║  MISSION    : Building scalable, secure web systems          ║
+╠══════════════════════════════════════════════════════════════╣
+║  SUPERPOWER : "I debug with console.log & not ashamed!"     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## `> TECH_ARSENAL.scan()`
 
 <div align="center">
 
-### 🎨 Frontend Development
+### `[ FRONTEND ]`
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css&theme=dark&perline=9" />
 </p>
 
-### ⚙️ Backend Development
+### `[ BACKEND ]`
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark&perline=9" />
 </p>
 
-### ☁️ Cloud & Tools
+### `[ DEVOPS & TOOLS ]`
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github,postman,vscode,vercel&theme=dark&perline=9" />
 </p>
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Featured Projects
+## `> PROJECTS.load(priority=HIGH)`
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Task Management API
-<br/>
+### 🔐 Task Management API
+```
+STATUS  : [██████████] COMPLETE
+STACK   : Node.js + Express + MongoDB
+FEATURE : JWT Auth + Redis Caching
+TYPE    : REST API Backend
+```
+> Robust task management system with JWT authentication, Redis caching for performance, and scalable MongoDB architecture.
 
-**JWT Auth • Redis • MongoDB**
-
-A robust task management REST API with advanced features including JWT authentication, Redis caching, and MongoDB database integration.
-
-**Tech:** Node.js, Express, MongoDB, Redis, JWT
-
-<a href="https://github.com/Prince-kohli/Task-management-api" target="_blank">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+[![View](https://img.shields.io/badge/⟩_REPO-VIEW_CODE-00ffcc?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Prince-kohli/Task-management-api)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 HRM System
-<br/>
+### 🏢 HRM System
+```
+STATUS  : [██████████] COMPLETE
+STACK   : React + Node.js + MongoDB
+FEATURE : RBAC + Admin Panel
+TYPE    : Full-Stack SaaS
+```
+> HR management platform with role-based access control, employee management, and real-time attendance tracking.
 
-**Role-Based Admin Panel**
-
-Comprehensive Human Resource Management system with role-based access control, employee management, and attendance tracking.
-
-**Tech:** React, Node.js, MongoDB, Express
-
-<a href="https://github.com/Prince-kohli/HRM" target="_blank">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+[![View](https://img.shields.io/badge/⟩_REPO-VIEW_CODE-7b2fff?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Prince-kohli/HRM)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 E-Commerce Platform
-<br/>
+```
+STATUS  : [██████████] COMPLETE
+STACK   : MongoDB + Express + React
+FEATURE : Cart + Payment + Orders
+TYPE    : Full-Stack MERN App
+```
+> Feature-rich e-commerce with cart management, payment gateway integration, and real-time order tracking.
 
-**Full-Stack MERN Application**
-
-Feature-rich e-commerce platform with cart management, payment integration, and order tracking.
-
-**Tech:** MongoDB, Express, React, Node.js
-
-<a href="https://github.com/Prince-kohli/E-commerce" target="_blank">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+[![View](https://img.shields.io/badge/⟩_REPO-VIEW_CODE-ff6b6b?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Prince-kohli/E-commerce)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Movix
-<br/>
+```
+STATUS  : [██████████] COMPLETE
+STACK   : React + CSS + REST API
+FEATURE : Search + Discovery
+TYPE    : Frontend Application
+```
+> Cinematic movie discovery app with dynamic API integration, fluid search, and a fully responsive UI.
 
-**Movie Discovery Platform**
-
-Interactive movie discovery application with API integration, search functionality, and responsive design.
-
-**Tech:** React, API Integration, CSS
-
-<a href="https://github.com/Prince-kohli/Movix" target="_blank">
-  <img src="https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-</a>
+[![View](https://img.shields.io/badge/⟩_REPO-VIEW_CODE-ffcc00?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Prince-kohli/Movix)
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+## `> GITHUB_METRICS.fetch()`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-kohli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-kohli&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-kohli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=7b2fff&text_color=a0f0ff&ring_color=00ffcc"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-kohli&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=a0f0ff"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-kohli&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-kohli&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00ffcc&ring=7b2fff&fire=ff6b6b&currStreakLabel=00ffcc&sideNums=a0f0ff&currStreakNum=00ffcc&dates=a0f0ff&sideLabels=a0f0ff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-kohli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-kohli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00ffcc&line=7b2fff&point=00ffcc&area_color=7b2fff" width="96%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `> CONTRIBUTION_MATRIX.animate()`
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prince-kohli/Prince-kohli/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prince-kohli/Prince-kohli/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prince-kohli/Prince-kohli/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Prince-kohli/Prince-kohli/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
 ---
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30"> Connect With Me
+## `> CONNECT.init()`
 
 <div align="center">
-  
+
+```
+╔════════════════════════════════════════════╗
+║   ESTABLISHING SECURE CONNECTION...       ║
+║   > Scanning available channels... done  ║
+║   > Encryption handshake complete ✓      ║
+╚════════════════════════════════════════════╝
+```
+
 <a href="https://www.linkedin.com/in/prince-kohli-373239266/">
-  <img src="https://img.shields.io/badge/LinkedIn-Prince_Kohli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=CONNECT" />
 </a>
+&nbsp;
 <a href="mailto:princekohli295@gmail.com">
-  <img src="https://img.shields.io/badge/Email-princekohli295@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=MESSAGE" />
 </a>
+&nbsp;
 <a href="https://github.com/Prince-kohli">
-  <img src="https://img.shields.io/badge/GitHub-Prince--kohli-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prince-kohli&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Prince-kohli&label=PROFILE+VIEWS&color=00ffcc&style=for-the-badge&labelColor=0a0a0a" />
+
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+```
+┌──────────────────────────────────────────────────────────┐
+│  "The best code is no code at all. The second best is  │
+│   clean, readable, and brutally scalable code."        │
+│                                    — A Backend Dev 😄  │
+└──────────────────────────────────────────────────────────┘
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7b2fff,50:00d4ff,100:0a0a0a&height=120&section=footer&animation=fadeIn"/>
 
 </div>
