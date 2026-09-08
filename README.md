@@ -1,285 +1,222 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prince%20Kohli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20MERN%20Developer%20%7C%20SaaS%20%7C%20Real-Time%20Systems%20%7C%20Scalable%20APIs&descAlignY=52&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=PRINCE%20KOHLI&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20MERN%20Engineer%20%7C%20SaaS%20Architect%20%7C%20Real-Time%20Systems&descAlignY=52&descAlign=50"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Building+Production-Grade+SaaS+Platforms;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Real-Time+Systems+with+Socket.io+%26+Redis;Stripe+%7C+AWS+%7C+PostgreSQL+%7C+MongoDB;Open+to+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=750&height=50&lines=Engineering+Scalable+SaaS+Platforms;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Real-Time+Systems+with+Socket.io+%26+Redis;Cloud-Native+%7C+AWS+%7C+PostgreSQL+%7C+MongoDB;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=101010" alt="experience"/>
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20MERN-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010" alt="role"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="status"/>
-  <img src="https://img.shields.io/badge/Projects-5%2B%20Production-orange?style=for-the-badge&logo=rocket&logoColor=white&labelColor=101010" alt="projects"/>
+  <img src="https://img.shields.io/badge/EXPERIENCE-1.5%2B%20YEARS-0f2027?style=for-the-badge&labelColor=00c6ff&logo=hackerrank&logoColor=0f2027" alt="experience"/>
+  <img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20MERN-0f2027?style=for-the-badge&labelColor=00c6ff&logo=react&logoColor=0f2027" alt="role"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0f2027?style=for-the-badge&labelColor=2ecc71&logo=linkedin&logoColor=0f2027" alt="status"/>
+  <img src="https://img.shields.io/badge/PROJECTS-5%2B%20SHIPPED-0f2027?style=for-the-badge&labelColor=00c6ff&logo=rocket&logoColor=0f2027" alt="projects"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 </div>
 
----
+## 🧠 Overview
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+**Full-Stack MERN Developer** with **1.5+ years** of production experience building SaaS platforms, real-time systems, and admin dashboards used in live business environments.
 
-👨‍💻 **Full-Stack MERN Developer** with **1.5+ years** of production experience
+- 📍 Based in **Mohali, Punjab, India**
+- 💼 Currently a **Full Stack Developer at SEO Quartz**
+- 🎯 Focused on **SaaS Architecture, Real-Time Systems & Secure Backend Design**
+- 🚀 Experience owning **frontend, backend & deployment** end-to-end across multiple production products
 
-📍 Based in **Mohali, Punjab, India** 🇮🇳
-
-💼 Currently working at **SEO Quartz** as a Full Stack Developer
-
-🎯 Specialized in **SaaS Platforms, Real-Time Systems & Admin Dashboards**
-
-🚀 Independently handled **frontend, backend & deployment** across multiple production projects
-
-### 💡 What I Bring to the Table:
-
-🏗️ **Production SaaS Platforms** — Role-based access, Stripe subscriptions, multi-tenant architecture
-
-⚡ **Real-Time Systems** — Chat, notifications & live tracking using **Socket.io**
-
-🔗 **Third-Party API Integrations** — Meta Ads, Google Ads, GMB, Shopify, Stripe, OpenAI
-
-🔐 **Secure Backend Architecture** — JWT Auth, RBAC, protected routes & permissions
-
-📊 **Background Job Processing** — BullMQ + Redis for scheduling, PDF generation & queues
-
-🗄️ **Multi-Database Expertise** — MongoDB, PostgreSQL (Prisma), MSSQL, Redis
-
-☁️ **Cloud Deployment** — AWS (EC2, S3), Vercel, Render, Private Servers
-
-🎨 **Modern Frontend** — React, Next.js, TypeScript, Tailwind CSS, Zustand, Redux Toolkit
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Work Experience
-
-<div align="center">
+### Core Strengths
 
 | | |
-|:---|:---|
-| 🏢 **SEO Quartz** — *Full Stack Developer* | 📅 March 2025 – Present |
-| 🏢 **Univisionz** — *Full Stack Developer* | 📅 July 2024 – March 2025 |
+|---|---|
+| 🏗️ **SaaS Platforms** | Role-based access, Stripe subscriptions, multi-tenant architecture |
+| ⚡ **Real-Time Systems** | Chat, notifications & live tracking with Socket.io |
+| 🔗 **API Integrations** | Meta Ads, Google Ads, GMB, Shopify, Stripe, OpenAI |
+| 🔐 **Secure Backend** | JWT Auth, RBAC, protected routes & permission systems |
+| 📊 **Background Jobs** | BullMQ + Redis for scheduling, PDF generation & queues |
+| 🗄️ **Databases** | MongoDB, PostgreSQL (Prisma), MSSQL, Redis |
+| ☁️ **Cloud & Deployment** | AWS (EC2, S3), Vercel, Render, private servers |
 
-</div>
+<br clear="right"/>
 
-### 🟢 SEO Quartz, Mohali *(Current)*
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-- Building **SaaS-based marketing platforms** with role-based access, Stripe subscriptions & third-party API integrations
-- Developed **real-time chat systems** using **Socket.io** — group chat, DMs, typing indicators, read receipts
-- Integrated **Meta Ads, Google Ads, GMB, Facebook, Instagram, Shopify & Stripe** APIs
-- Implemented **post scheduling** using **BullMQ + Redis** for background job processing
-- Built **PDF report generation** using **Puppeteer + BullMQ** with zero server storage
-
-### 🔵 Univisionz, Mohali
-
-- Developed **SaaS applications** with subscription systems & role-based admin panels
-- Built **real estate management** & **PhD journal submission** platforms from scratch
-- Hands-on with **Zustand** for global state management & **protected routes**
-- Deployed applications on **AWS EC2 (S3)** and **Vercel**
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## 💼 Experience
 
 <div align="center">
 
-### 🎨 Frontend
+| Company | Role | Duration |
+|:---|:---:|:---:|
+| 🏢 **SEO Quartz**, Mohali | Full Stack Developer | Mar 2025 – Present |
+| 🏢 **Univisionz**, Mohali | Full Stack Developer | Jul 2024 – Mar 2025 |
+
+</div>
+
+**SEO Quartz — Full Stack Developer** *(Current)*
+- Built SaaS marketing platforms with role-based access, Stripe subscriptions & third-party API integrations
+- Developed real-time chat systems using Socket.io — group chat, DMs, typing indicators, read receipts
+- Integrated Meta Ads, Google Ads, GMB, Facebook, Instagram, Shopify & Stripe APIs
+- Implemented post scheduling using BullMQ + Redis for background job processing
+- Built PDF report generation using Puppeteer + BullMQ with zero server storage
+
+**Univisionz — Full Stack Developer**
+- Developed SaaS applications with subscription systems & role-based admin panels
+- Built real estate management & PhD journal submission platforms from scratch
+- Hands-on with Zustand for global state management & protected routes
+- Deployed applications on AWS EC2 (S3) and Vercel
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-0f2027?style=flat-square&logo=react&logoColor=00c6ff" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-0f2027?style=flat-square&logo=nextdotjs&logoColor=00c6ff" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-0f2027?style=flat-square&logo=typescript&logoColor=00c6ff" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f2027?style=flat-square&logo=javascript&logoColor=00c6ff" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-0f2027?style=flat-square&logo=redux&logoColor=00c6ff" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Zustand-0f2027?style=flat-square&logo=react&logoColor=00c6ff" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f2027?style=flat-square&logo=tailwind-css&logoColor=00c6ff" alt="Tailwind"/>
 </p>
 
-### ⚙️ Backend
+**Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Node.js-0f2027?style=flat-square&logo=nodedotjs&logoColor=00c6ff" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-0f2027?style=flat-square&logo=express&logoColor=00c6ff" alt="Express"/>
+  <img src="https://img.shields.io/badge/Socket.io-0f2027?style=flat-square&logo=socketdotio&logoColor=00c6ff" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/JWT-0f2027?style=flat-square&logo=jsonwebtokens&logoColor=00c6ff" alt="JWT"/>
+  <img src="https://img.shields.io/badge/REST_API-0f2027?style=flat-square&logo=fastapi&logoColor=00c6ff" alt="REST API"/>
 </p>
 
-### 🗄️ Databases & Caching
+**Databases & Caching**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-0f2027?style=flat-square&logo=mongodb&logoColor=00c6ff" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0f2027?style=flat-square&logo=postgresql&logoColor=00c6ff" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-0f2027?style=flat-square&logo=prisma&logoColor=00c6ff" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Redis-0f2027?style=flat-square&logo=redis&logoColor=00c6ff" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MSSQL-0f2027?style=flat-square&logo=microsoftsqlserver&logoColor=00c6ff" alt="MSSQL"/>
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+**Cloud, DevOps & Tools**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/AWS-0f2027?style=flat-square&logo=amazonaws&logoColor=00c6ff" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Firebase-0f2027?style=flat-square&logo=firebase&logoColor=00c6ff" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vercel-0f2027?style=flat-square&logo=vercel&logoColor=00c6ff" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-0f2027?style=flat-square&logo=render&logoColor=00c6ff" alt="Render"/>
+  <img src="https://img.shields.io/badge/Stripe-0f2027?style=flat-square&logo=stripe&logoColor=00c6ff" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/Git-0f2027?style=flat-square&logo=git&logoColor=00c6ff" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0f2027?style=flat-square&logo=github&logoColor=00c6ff" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-0f2027?style=flat-square&logo=postman&logoColor=00c6ff" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-0f2027?style=flat-square&logo=visualstudiocode&logoColor=00c6ff" alt="VS Code"/>
 </p>
 
-### 🔌 APIs & Libraries
+**APIs & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
-  <img src="https://img.shields.io/badge/Meta_Graph_API-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"/>
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"/>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
-  <img src="https://img.shields.io/badge/BullMQ-FF6C37?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  <img src="https://img.shields.io/badge/OpenAI-0f2027?style=flat-square&logo=openai&logoColor=00c6ff" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Shopify-0f2027?style=flat-square&logo=shopify&logoColor=00c6ff" alt="Shopify"/>
+  <img src="https://img.shields.io/badge/Meta_Graph_API-0f2027?style=flat-square&logo=meta&logoColor=00c6ff" alt="Meta"/>
+  <img src="https://img.shields.io/badge/Google_Ads-0f2027?style=flat-square&logo=googleads&logoColor=00c6ff" alt="Google Ads"/>
+  <img src="https://img.shields.io/badge/Puppeteer-0f2027?style=flat-square&logo=puppeteer&logoColor=00c6ff" alt="Puppeteer"/>
+  <img src="https://img.shields.io/badge/BullMQ-0f2027?style=flat-square&logo=redis&logoColor=00c6ff" alt="BullMQ"/>
+  <img src="https://img.shields.io/badge/Cloudinary-0f2027?style=flat-square&logo=cloudinary&logoColor=00c6ff" alt="Cloudinary"/>
 </p>
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Production Projects
-
-<div align="center">
+## 🚀 Production Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Trackscop *(SEO Quartz)*
-<br/>
-
-**SaaS Marketing Platform**
+### 📊 Trackscop
+**SaaS Marketing Platform** · *SEO Quartz*
 
 Role-based SaaS platform with Stripe subscriptions, Meta/Google Ads integration, GMB analytics, AI-powered SEO overviews (OpenAI), real-time chat (Socket.io), post scheduling (BullMQ + Redis), and PDF report generation (Puppeteer).
 
-**Tech:** Next.js, Node.js, MongoDB, Socket.io, Redis, BullMQ, Stripe, OpenAI, Cloudinary
-
-<a href="https://trackscop.com" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
+`Next.js` `Node.js` `MongoDB` `Socket.io` `Redis` `BullMQ` `Stripe` `OpenAI` `Cloudinary`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛍️ Guper *(SEO Quartz)*
-<br/>
-
-**Merchant Reward Platform**
+### 🛍️ Guper
+**Merchant Reward Platform** · *SEO Quartz*
 
 Complete TypeScript backend with merchant account creation, API key verification, customer reward point calculation, Shopify Webhooks integration, and Stripe subscription management.
 
-**Tech:** Node.js, Express, TypeScript, PostgreSQL, Prisma, Shopify, Stripe
+`Node.js` `Express` `TypeScript` `PostgreSQL` `Prisma` `Shopify` `Stripe`
 
 <a href="https://github.com/Prince-kohli" target="_blank">
-  <img src="https://img.shields.io/badge/View_Details-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Details"/>
+  <img src="https://img.shields.io/badge/VIEW%20ON%20GITHUB-0f2027?style=for-the-badge&labelColor=00c6ff&logo=github&logoColor=0f2027" alt="View on GitHub"/>
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 Active Adult Living *(Univisionz)*
-<br/>
-
-**Real Estate Management Platform**
+### 🏠 Active Adult Living
+**Real Estate Management Platform** · *Univisionz*
 
 Full-stack community-based real estate platform with advanced property search, filtering, role-based access control, email notifications, newsletter subscriptions & user engagement tracking.
 
-**Tech:** Next.js, Node.js, Express, MongoDB, REST APIs
-
-<a href="https://www.activeadultliving.com" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
+`Next.js` `Node.js` `Express` `MongoDB` `REST APIs`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📝 Synergy World Press *(Univisionz)*
-<br/>
+### 📝 Synergy World Press
+**PhD Journal Submission System** · *Univisionz*
 
-**PhD Journal Submission System**
+Role-based journal submission & review system (Author/Reviewer/Editor) with PDF management, automated email notifications, cron scheduling & secure approval workflows.
 
-Role-based journal submission & review system (Author/Reviewer/Editor) with PDF management, automated email notifications, Cron scheduling & secure approval workflows.
-
-**Tech:** React, Node.js, MongoDB, AWS EC2, S3
-
-<a href="https://www.synergyworldpress.com" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Live Demo"/>
-</a>
+`React` `Node.js` `MongoDB` `AWS EC2` `S3`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" colspan="2">
+<td width="100%" colspan="2" valign="top">
 
-### 🔒 MCGL Online *(Univisionz)*
-<br/>
-
-**Secure Data Management Platform**
+### 🔒 MCGL Online
+**Secure Data Management Platform** · *Univisionz*
 
 Secure platform with admin dashboard for membership plans, access rules & download limits. Features email verification, LAS file in-browser preview, subscription validation & secure APIs for sensitive well data.
 
-**Tech:** React, Node.js, MSSQL, Private Server Deployment
-
-<a href="https://www.mcglonline.com" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo=server&logoColor=white" alt="Live Demo"/>
-</a>
+`React` `Node.js` `MSSQL` `Private Server Deployment`
 
 </td>
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Prince-kohli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-kohli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prince-kohli&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-kohli&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-kohli&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c6ff&ring=00c6ff&fire=00c6ff&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-kohli&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-kohli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="95%" alt="Activity Graph"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-kohli&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="95%" alt="Activity Graph"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -291,37 +228,37 @@ Secure platform with admin dashboard for membership plans, access rules & downlo
   </picture>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30"> Connect With Me
+## 📡 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/prince-kohli-373239266/">
-  <img src="https://img.shields.io/badge/LinkedIn-Prince_Kohli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0f2027?style=for-the-badge&labelColor=00c6ff&logo=linkedin&logoColor=0f2027" alt="LinkedIn"/>
 </a>
 <a href="mailto:princekohli295@gmail.com">
-  <img src="https://img.shields.io/badge/Email-princekohli295@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-0f2027?style=for-the-badge&labelColor=00c6ff&logo=gmail&logoColor=0f2027" alt="Email"/>
 </a>
 <a href="https://github.com/Prince-kohli">
-  <img src="https://img.shields.io/badge/GitHub-Prince--kohli-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-0f2027?style=for-the-badge&labelColor=00c6ff&logo=github&logoColor=0f2027" alt="GitHub"/>
 </a>
 <a href="tel:+918580855629">
-  <img src="https://img.shields.io/badge/Phone-%2B91_8580855629-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  <img src="https://img.shields.io/badge/PHONE-0f2027?style=for-the-badge&labelColor=00c6ff&logo=whatsapp&logoColor=0f2027" alt="Phone"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prince-kohli&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Prince-kohli&label=PROFILE%20VIEWS&color=00c6ff&style=for-the-badge" alt="Profile views" />
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer"/>
 
 </div>
